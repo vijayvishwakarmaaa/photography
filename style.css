@@ -24,7 +24,7 @@
     position: fixed;
     left: -300px;
     height: 100vh;
-    width: 250px;
+    width: 200px;
     background-color: rgba(255,255,255,0.1);
     box-shadow: 0 0 6px rgba(255,255,255,0.5);
     transition: all 0.3s linear;
@@ -52,7 +52,7 @@
     font-size: 25px;
     line-height: 64px;
     position: absolute;
-    left: 200px;
+    left: 175px;
     /* opacity: 0; */
     cursor: pointer;
 }
@@ -64,14 +64,14 @@
 }
 
 .sidebar_menu .menu li {
-    margin-top: 6px;
-    padding: 14px 20px;
+    margin-top: 4px;
+    padding: 10px 20px;
 }
 
 .sidebar_menu .menu i,a {
     color: white;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .sidebar_menu .menu i {
